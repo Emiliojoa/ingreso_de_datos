@@ -1,0 +1,26 @@
+# Proyecto: Registro de Personas con Notas
+
+## Descripción
+Este programa permite registrar el nombre, edad y nota de varias personas. Luego de ingresar los datos, el sistema muestra dos listados:
+1. El listado de personas tal como fueron ingresadas.
+2. El listado de personas ordenadas por su nota de mayor a menor.
+
+Este proyecto está implementado en dos lenguajes de programación:
+- **JavaScript**: Para ejecutarlo directamente en el navegador.
+- **Python**: Para ejecutarlo desde la terminal o consola.
+
+## Instrucciones para ejecutar el programa
+
+### En JavaScript:
+1. ejecuta el comando **npm i propt-sync**
+2. Accede a las herramientas de desarrollo de tu navegador (generalmente presionando `F12`).
+3. Ve a la pestaña "Consola".
+4. Copia y pega el código de JavaScript proporcionado en el archivo.
+5. Ejecuta el código.
+6. Sigue las instrucciones que te aparecerán en la consola para ingresar los datos de las personas (nombre, edad, y nota).
+
+### En Python:
+1. Descarga o copia el código de Python en un archivo con la extensión `.py` (por ejemplo, `registro_personas.py`).
+2. Abre la terminal o consola de tu sistema operativo.
+3. Navega hasta la carpeta donde guardaste el archivo.
+4. Ejecuta el archivo con el siguiente comando:
